@@ -1,4 +1,4 @@
 [[redirect]]
 from="/*"
-to="../src/App.js"
+to="/index.html"
 status=200

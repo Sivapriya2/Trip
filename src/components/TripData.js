@@ -6,7 +6,7 @@ function TripData (props) {
   return (
     <div className='card'>
       <div className='t-image'>
-        <img src={props.image} alt='image'></img>
+        <img src={props.image} alt='places'></img>
       </div>
       <h4>{props.heading} </h4>
       <p>{props.text} </p>

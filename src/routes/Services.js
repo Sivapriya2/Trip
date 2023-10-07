@@ -2,7 +2,7 @@ import React from 'react'
 import Navbar from '../components/Navbar'
 import Hero from '../components/Hero'
 import Footer from '../components/Footer'
-import Serviceimg from '../assets/services.webp'
+// import Serviceimg from '../assets/services.webp'
 
 const Services = () => {
   return (
@@ -10,7 +10,7 @@ const Services = () => {
       <Navbar/>
       <Hero 
          cName="services"
-         img="Serviceimg"
+         
          url="/"
       />
       <Footer />

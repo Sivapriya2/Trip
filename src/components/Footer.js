@@ -6,15 +6,15 @@ const Footer = () => {
   return (
     <div className='footer'>
       <div className='top'>
-        <div className=''>
+        <div>
             <h1>Trip</h1>
             <p>Choose your Destination</p>
         </div>
         <div>
-            <a href=''><i class='bx bxl-facebook'></i></a>
-            <a href=''><i class='bx bxl-instagram'></i></a>    
-            <a href=''><i class='bx bxl-whatsapp'></i></a>  
-            <a href=''><i class='bx bxl-twitter'></i></a>
+            <a><i class='bx bxl-facebook'></i></a>
+            <a><i class='bx bxl-instagram'></i></a>    
+            <a><i class='bx bxl-whatsapp'></i></a>  
+            <a><i class='bx bxl-twitter'></i></a>
         </div>
       </div>
 

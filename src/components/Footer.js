@@ -11,10 +11,10 @@ const Footer = () => {
             <p>Choose your Destination</p>
         </div>
         <div>
-            <a><i class='bx bxl-facebook'></i></a>
-            <a><i class='bx bxl-instagram'></i></a>    
-            <a><i class='bx bxl-whatsapp'></i></a>  
-            <a><i class='bx bxl-twitter'></i></a>
+            <a href="/"><i class='bx bxl-facebook'></i></a>
+            <a href="/"><i class='bx bxl-instagram'></i></a>    
+            <a href="/"><i class='bx bxl-whatsapp'></i></a>  
+            <a href="/"><i class='bx bxl-twitter'></i></a>
         </div>
       </div>
 

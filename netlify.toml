@@ -7,3 +7,4 @@
   from = "/*"
   status = 200
   to = "/index.html"
+  force = true

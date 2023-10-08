@@ -1,6 +1,6 @@
 import React from 'react'
 import './ContactForm.css'
- import './script.js'
+ // import './script.js'
 
 const ContactForm = () => {
     return (
@@ -13,7 +13,7 @@ const ContactForm = () => {
          <textarea placeholder='Message' rows='4' name="Message" required></textarea>
          <button type="submit" >Send Message</button>
       </form>
-      <span id="msg"></span>
+    //   <span id="msg"></span>
     </div>
   )
 }
